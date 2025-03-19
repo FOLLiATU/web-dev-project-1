@@ -1,0 +1,183 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    overflow: auto;
+}
+
+header img.logo {
+    border-radius: 10px;
+}
+
+.homeheader {
+    margin: 0;
+    padding-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav ul li#active a {
+    border-bottom: 2px solid #ffffff;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article h2 {
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+}
+
+.text {
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+.links {
+    font-style: italic;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+/*
+
+nav{
+    background-color: grey;
+    
+    padding: 5px;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color: #b2b2b2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px white;
+    border-radius: 10px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+nav ul li :hover{
+    background-color: red;
+    color: white;
+}
+
+nav ul :hover{
+    background-color: red;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+
+.homeheader{
+    text-align: left;
+    color: white;
+}
+
+.text{
+    text-align: left;
+    margin-right: 1%;
+}
+
+.links{
+float:bottom,left;
+}
+
+
+footer{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    color: white;
+}
+
+body{
+    background-color: black;
+    font-family: Verdana;
+    margin: 0;
+}
+
+.colour{
+    color: white;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 40%;
+    border: 7px solid white;
+}
+
+.text{
+    color: white;
+}
+
+h1, h2{
+    color: rgba(255, 255, 255, 0.91);    
+}
+
+.logo{
+    border-radius: 30px;
+    border: solid black;
+}
+
+*/
